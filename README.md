@@ -23,3 +23,8 @@ In progress — part of my self-taught frontend development journey.
 ## Acknowledgements
 
 - [roadmap.sh](https://roadmap.sh) — for the project idea and learning path
+
+## How to Run
+
+1. Clone or download this repository
+2. Open `index.html` in your browser
