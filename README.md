@@ -29,6 +29,6 @@ In progress — part of my self-taught frontend development journey.
 1. Clone or download this repository
 2. Open `index.html` in your browser
 
-## Live Demo
+## Project URL
 
 https://ntombifuthistalwart-collab.github.io/singlepagecv/
